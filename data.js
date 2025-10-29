@@ -151,12 +151,12 @@ const listingsData = [
         phone: "(11) 94444-6666",
         email: "fernanda@alphaprime.com",
         images: [
-            "https://images.unsplash.com/photo-1570129477492-45a003537e1f?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800&h=600&fit=crop"
+            "./img/img20.png",
+            "./img/img19.png",
+            "./img/img21.png",
+            "./img/img22.png",
+            "./img/img23.png",
+            "./img/img24.png"
         ],
         features: ["Próximo a Escolas", "Parque Próximo", "Seguro", "Familiar"]
     },
