@@ -18,12 +18,13 @@ const listingsData = [
         phone: "(11) 99999-1111",
         email: "joao@alphaprime.com",
         images: [
-            "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1540932239986-310128078ceb?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1512917774080-9b274b3f5798?w=800&h=600&fit=crop"
+            "./img/img36.webp",
+            "./img/img37.webp",
+            "./img/img38.webp",
+            "./img/img39.webp",
+            "./img/img40.webp",
+            "./img/img41.webp",
+            "./img/img42.webp",
         ],
         features: ["Piscina", "Academia", "Salão de Festas", "Portaria 24h", "Garagem", "Ar Condicionado"]
     },
@@ -45,13 +46,14 @@ const listingsData = [
         phone: "(11) 98888-2222",
         email: "maria@alphaprime.com",
         images: [
-            "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1570129477492-45a003537e1f?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&h=600&fit=crop"
+            "./img/img35.webp",
+            "./img/img28.webp",
+            "./img/img29.webp",
+            "./img/img30.webp",
+            "./img/img31.webp",
+            "./img/img32.webp",
+            "./img/img33.webp",
+            "./img/img34.webp",
         ],
         features: ["Pátio Amplo", "Garagem Dupla", "Cozinha Integrada", "Segurança 24h", "Jardim"]
     },
@@ -73,12 +75,12 @@ const listingsData = [
         phone: "(11) 97777-3333",
         email: "pedro@alphaprime.com",
         images: [
-            "./img/img2.png",
-            "./img/img1.png",
-            "./img/img3.png",
-            "./img/img4.png",
-            "./img/img5.png",
-            "./img/img6.png",
+            "./img/img2.webp",
+            "./img/img1.webp",
+            "./img/img3.webp",
+            "./img/img4.webp",
+            "./img/img5.webp",
+            "./img/img6.webp",
         ],
         features: ["Próximo ao Metrô", "Comercial", "Bem Localizado", "Investimento"]
     },
@@ -100,7 +102,7 @@ const listingsData = [
         phone: "(11) 96666-4444",
         email: "ana@alphaprime.com",
         images: [
-            "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&h=600&fit=crop",
+            "./img/lote.webp",
             "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=800&h=600&fit=crop",
             "https://images.unsplash.com/photo-1552321554-5fefe8c9ef14?w=800&h=600&fit=crop",
             "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop"
@@ -125,11 +127,11 @@ const listingsData = [
         phone: "(11) 95555-5555",
         email: "carlos@alphaprime.com",
         images: [
-            "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&h=600&fit=crop",
-            "https://images.unsplash.com/photo-1540932239986-310128078ceb?w=800&h=600&fit=crop"
+            "./img/img47.webp",
+            "./img/img44.webp",
+            "./img/img45.webp",
+            "./img/img46.webp",
+            "./img/img43.webp"
         ],
         features: ["Mobiliado", "Ar Condicionado", "Internet", "Moderno"]
     },
@@ -151,12 +153,12 @@ const listingsData = [
         phone: "(11) 94444-6666",
         email: "fernanda@alphaprime.com",
         images: [
-            "./img/img20.png",
-            "./img/img19.png",
-            "./img/img21.png",
-            "./img/img22.png",
-            "./img/img23.png",
-            "./img/img24.png"
+            "./img/img20.webp",
+            "./img/img19.webp",
+            "./img/img21.webp",
+            "./img/img22.webp",
+            "./img/img23.webp",
+            "./img/img24.webp"
         ],
         features: ["Próximo a Escolas", "Parque Próximo", "Seguro", "Familiar"]
     },
@@ -178,11 +180,11 @@ const listingsData = [
         phone: "(11) 93333-7777",
         email: "roberto@alphaprime.com",
         images: [
-            "./img/img14.png",
-            "./img/img15.png",
-            "./img/img16.png",
-            "./img/img17.png",
-            "./img/img18.png"
+            "./img/img14.webp",
+            "./img/img15.webp",
+            "./img/img16.webp",
+            "./img/img17.webp",
+            "./img/img18.webp"
         ],
         features: ["Centro", "Muito Movimento", "Amplo", "Bem Localizado"]
     },
@@ -204,13 +206,13 @@ const listingsData = [
         phone: "(11) 92222-8888",
         email: "isabela@alphaprime.com",
         images: [
-            "./img/img7.png",
-            "./img/img8.png",
-            "./img/img9.png",
-            "./img/img10.png",
-            "./img/img11.png",
-            "./img/img12.png",
-            "./img/img13.png",            
+            "./img/img7.webp",
+            "./img/img8.webp",
+            "./img/img9.webp",
+            "./img/img10.webp",
+            "./img/img11.webp",
+            "./img/img12.webp",
+            "./img/img13.webp",            
         ],
         features: ["Luxo", "Vista Parque", "Home Theater", "Piscina Privativa", "Acabamento Premium"]
     }
