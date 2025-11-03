@@ -358,7 +358,7 @@ function showListingDetail(listing) {
 
         <div style="margin-top: 30px; display: flex; gap: 10px; flex-wrap: wrap;">
             <button class="btn btn-primary" onclick="contactAgent('${listing.phone}')">
-                📞 Ligar para Agente
+                📞 Entre em contato
             </button>
             <button class="btn btn-secondary" onclick="contactAgent('${listing.email}')">
                 📧 Enviar Email
